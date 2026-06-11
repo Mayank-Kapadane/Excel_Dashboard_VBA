@@ -14,7 +14,8 @@ A key feature of this project is the implementation of **VBA-powered checkboxes*
 
 Watch the complete dashboard demonstration below:
 
-![demo/dashboard-demo.mp4](https://drive.google.com/file/d/1OoJIwsJg62EODmgrTrwLn0VDSUjqosRC/view?usp=sharing)
+![warch here](./demo/Excel_dashboard_VBA.gif)
+
 
 > The demo showcases city-wise filtering, interactive charts, automated reporting, and VBA-powered checkbox functionality.
 
